@@ -12,6 +12,7 @@
                 "src/MyRectangle.cpp",
                 "src/Circle.cpp",
                 "src/MySquare.cpp",
+                "src/MyTriangle.cpp",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
                 "-lraylib",
